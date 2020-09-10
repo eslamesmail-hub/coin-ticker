@@ -1,16 +1,7 @@
 # coin_tricker
 
-A new Flutter application.
+a crypto currency price checking app.
 
-## Getting Started
+![coin-tricker](https://user-images.githubusercontent.com/70852067/92697774-f19e4680-f34b-11ea-98e1-9764c4f71d3e.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+DropdownButton Widget from Material design.  looping through code using Dart for and for-in loops.  How to use Cupertino Widgets.  How to check the platform your app is being run on to customise the UI for that platform.
