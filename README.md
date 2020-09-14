@@ -6,7 +6,7 @@ a crypto currency price checking app.
 
 Use Dart to perform asynchronous tasks.  
 Networking with the Dart http package.  
-APIs are and how to use them to get data from the internet.  
+APIs to get data from the internet.  
 Parse JSONs using the Dart convert package.  
 Passing data forwards and backwards between screens using the Navigator.  
 Handling exceptions in Dart using try/catch/throw.  
