@@ -3,6 +3,8 @@
 a crypto currency price checking app.
 
 ![coin-tricker](https://user-images.githubusercontent.com/70852067/92697774-f19e4680-f34b-11ea-98e1-9764c4f71d3e.png)
+![coin tricker 2](https://user-images.githubusercontent.com/70852067/94984027-0f745b00-0548-11eb-8b62-c68e64ed9b3f.png)
+
 
 Use Dart to perform asynchronous tasks.  
 Networking with the Dart http package.  
