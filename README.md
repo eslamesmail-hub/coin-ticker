@@ -1,4 +1,4 @@
-# Coin_Ticker
+# coin_ticker
 
 a crypto currency price checking app telling us the current price in various currencies such as euros or dollars for various cryptocurrencies such as Bitcoin, Ethereum, and Lite coins.
 
